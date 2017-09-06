@@ -1,4 +1,4 @@
-## Eutow
+## Black Rain
 
 [![Black Rain](/rain.jpg "Black Rain")](https://demo.marpi.pl/archan/black_rain/)
 
@@ -15,4 +15,4 @@ In order to see your [Three.js](http://threejs.org) project on your own computer
 Libraries
 -------
 
-[three.js](https://github.com/mrdoob/three.js/), [Codrops](https://tympanus.net/codrops/2015/11/04/rain-water-effect-experiments/), [TweenMax.js](https://greensock.com/tweenmax), [isMobile](https://github.com/kaimallea/isMobile)
+[three.js](https://github.com/mrdoob/three.js/), [Codrops](https://github.com/codrops/RainEffect), [TweenMax.js](https://greensock.com/tweenmax), [isMobile](https://github.com/kaimallea/isMobile)
